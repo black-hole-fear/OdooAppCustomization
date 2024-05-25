@@ -1,6 +1,6 @@
-# owl-bookstore v15
+# owl-bookstore v16
 
-**This is a small project i'm doing to learn [OWL](https://github.com/odoo/owl)**, the Odoo JS framework and also some Odoo technical aspects. 
+**This is a small project i'm doing to learn [OWL](https://github.com/black-hole-fear/OdooAppCustomization)**, the Odoo JS framework and also some Odoo technical aspects. 
 It consists of implementing a bookstore project that has 2 modules:
 
 
@@ -9,7 +9,7 @@ It consists of implementing a bookstore project that has 2 modules:
 
 ## How it works
 
-- Install those modules on Odoo v15
+- Install those modules on Odoo v16
 - Create some books products
 - Access books page in Odoo web portal (e.g. http://localhost:8069/books)
 
